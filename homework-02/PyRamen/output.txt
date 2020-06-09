@@ -1,0 +1,11 @@
+spicy miso ramen:{'count': 1270.0, 'revenue': 15228.0, 'cost': 6340.0, 'profit': 8876.0}
+tori paitan ramen:{'count': 1258.0, 'revenue': 16354.0, 'cost': 7548.0, 'profit': 8806.0}
+truffle butter ramen:{'count': 1174.0, 'revenue': 16436.0, 'cost': 8218.0, 'profit': 8218.0}
+tonkotsu ramen:{'count': 1134.0, 'revenue': 14742.0, 'cost': 6804.0, 'profit': 7938.0}
+vegetarian spicy miso:{'count': 1246.0, 'revenue': 14952.0, 'cost': 6230.0, 'profit': 8722.0}
+shio ramen:{'count': 1152.0, 'revenue': 12672.0, 'cost': 5760.0, 'profit': 6912.0}
+miso crab ramen:{'count': 1160.0, 'revenue': 13920.0, 'cost': 6960.0, 'profit': 6960.0}
+nagomi shoyu:{'count': 1270.0, 'revenue': 13970.0, 'cost': 6350.0, 'profit': 7620.0}
+soft-shell miso crab ramen:{'count': 1262.0, 'revenue': 17668.0, 'cost': 8834.0, 'profit': 8834.0}
+burnt garlic tonkotsu ramen:{'count': 1252.0, 'revenue': 17528.0, 'cost': 7512.0, 'profit': 10016.0}
+vegetarian curry + king trumpet mushroom ramen:{'count': 1144.0, 'revenue': 14872.0, 'cost': 8008.0, 'profit': 6864.0}
